@@ -5,8 +5,8 @@
 }
 
 .block {
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
   position: absolute;
   top: 50px;
   left: 50px;
@@ -14,10 +14,10 @@
 }
 
 .otherBlock {
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
   position: absolute;
-  top: 400px;
-  left: 400px;
+  top: 200px;
+  left: 200px;
   background-color: #00AA00;
 }
