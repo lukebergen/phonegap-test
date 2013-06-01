@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.lukebergen.phonegap-test"
+        versionCode="10" 
+        version   = "2.7.0">
+
+    <name>PhoneGap Test</name>
+
+    <description>
+        A test of phonegap
+    </description>
+
+    <author href="http://www.lukebergen.com" email="lukeabergen@gmail.com">
+        Luke Bergen
+    </author>
+
+</widget>
