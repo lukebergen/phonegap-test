@@ -1,0 +1,23 @@
+#main {
+  height: 95%;
+  width: 100%;
+  background-color: #EEEEEE;
+}
+
+.block {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: #AA00AA;
+}
+
+.otherBlock {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 400px;
+  left: 400px;
+  background-color: #00AA00;
+}
