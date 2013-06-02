@@ -4,8 +4,7 @@
   background-color: #EEEEEE;
 }
 
-#clicker {
-  height: 20px;
-  width: 20px;
-  background-color: #800080;
+#gameCanvas {
+  height: 100%;
+  width: 100%;
 }
